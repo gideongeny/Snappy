@@ -1,9 +1,6 @@
 /*
-Template Name: Snappy
-File Name: style.css
-Author Name: ThemeVault
-Author URI: http://www.themevault.net/
-License URI: http://www.themevault.net/license/
+Project: Snappy
+Author: Gideo
 */
 
 
@@ -1017,6 +1014,7 @@ footer {
         width: 30px;
     }
 }
+
 /* Pricing Cards */
 .pricing-card {
     background: var(--bg-card);
